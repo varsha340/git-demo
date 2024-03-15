@@ -1,2 +1,5 @@
 # git-demo
-git demo for iet and ieee svecw workshop
+git demo for iet and ieee svecw
+workshop
+<br>
+author:varsha
